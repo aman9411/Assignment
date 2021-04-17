@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.assignment:hover{
+  border: 1px solid white;
+}
+.panel{
+  border: 1px solid white;
+}
+
+.component{
+  border: 1px solid white;
+}
